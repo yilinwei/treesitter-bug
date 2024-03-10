@@ -1,4 +1,4 @@
-This uses the current HEAD grammar for Scala [here](https://github.com/tree-sitter/tree-sitter-scala).
+This uses the current HEAD commit of the grammar for Scala [here](https://github.com/tree-sitter/tree-sitter-scala/commit/e02f003d78dc269fef287b9b7b9963dc1f26bd7e).
 
 ```sh 
 make build
